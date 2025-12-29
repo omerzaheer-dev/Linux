@@ -1,2 +1,2 @@
 1. remove file => rm file.txt
-2. remove folder => rm -f folder
+2. remove folder => rm -r folder
